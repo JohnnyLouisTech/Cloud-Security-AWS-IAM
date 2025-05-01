@@ -50,7 +50,39 @@ Head on down to see your EC2 settings and make sure the Amazon Machine Image (AM
 
 ![image](https://github.com/user-attachments/assets/62d63d2d-8604-490c-9ffb-0d5ae0e7dde3)
 
-![image](https://github.com/user-attachments/assets/17065207-9a67-42bd-a5f4-7b236220da0b)
+Take a look at your instance type, it should be t2.micro, 1 GiB under the free tier, since we don’t need a lot of storage.
+
+![image](https://github.com/user-attachments/assets/801889db-8f1a-488d-9242-1248922c0e92)
+
+For Key pair (login), select Proceed without a key pair.
+
+![image](https://github.com/user-attachments/assets/34383443-1c78-41c5-99b9-33681c38b375)
+
+You’re ready! Click Launch instance.
+
+![image](https://github.com/user-attachments/assets/8df87ad5-c110-4a79-af7e-1d12c7033157)
+
+![image](https://github.com/user-attachments/assets/3a855c03-3585-475a-bff9-b3f210053c40)
+
+![image](https://github.com/user-attachments/assets/8e4cef12-19da-4916-9163-bd381cc801f3)
+
+Network settings define how your instances interact with the internet and other AWS resources, determining factors like IP addresses and network routing.
+
+Let’s create our second EC2 instance
+Now let’s create one more EC2 instance for the development environment. We’re keeping the same settings from the first instance.
+
+Repeat the same flow, but this time using these tags:
+![image](https://github.com/user-attachments/assets/32203664-be57-41aa-bef6-849988de4d07)
+
+Launch your second instance.
+Select Instances from your left-hand navigation panel.
+If you only see one instance on your page, make sure to use that refresh button!
+You may need to refresh your page a couple of times.
+
+
+
+
+
 
 
 
