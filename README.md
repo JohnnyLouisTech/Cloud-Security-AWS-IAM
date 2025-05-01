@@ -28,9 +28,11 @@ Open your EC2 console — search for it at the search bar.
 
 *Here we can switch to the nearest Region based on our location
 ![image](https://github.com/user-attachments/assets/886a0bdf-a0c0-41c8-a4dc-85da14182c8d)
+
 In your EC2 console, choose Launch instance.
 
 Let’s set up your EC2 instance!
+
 In Name, enter the value.
 
 
