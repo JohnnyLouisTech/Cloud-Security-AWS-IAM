@@ -94,7 +94,6 @@ Voila — you’ll see the tags you’ve defined right here.
 
 ![image](https://github.com/user-attachments/assets/72d58010-0855-440f-9890-89697a0aee01)
 
-
 📏 Step #2
 Create an IAM Policy
 🎉 WOOOOOOO! You’ve deployed two EC2 instances, one for your production environment and one for your development environment.
@@ -167,7 +166,6 @@ Choose Create policy again when you’re done.
 
 🔖 Step #3
 Create an AWS Account Alias
-
 
 Now that we can give our intern access to the development instance, the intern can’t wait to start. They’d love to jump into the team’s AWS account right away!
 
